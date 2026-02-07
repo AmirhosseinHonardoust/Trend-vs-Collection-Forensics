@@ -471,7 +471,7 @@ If any step fails, your “trend” is a measurement investigation.
 Use this to prevent yourself from overselling.
 
 ### Trend Report Card
-
+ 
 **Claimed trend:**  
 - KPI: __________________________  
 - Direction & magnitude: __________________________  
