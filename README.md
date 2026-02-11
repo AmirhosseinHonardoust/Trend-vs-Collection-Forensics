@@ -2,7 +2,7 @@
   <h1 align="center">You Don’t Have a Trend, You Have a Data Collection Problem </h1>
     <p align="center">
 <div align="center">
-  
+
 ![Writing](https://img.shields.io/badge/Type-Deep%20Dive%20Article-black)
 ![Focus](https://img.shields.io/badge/Focus-Analytics%20Forensics-blue)
 ![Theme](https://img.shields.io/badge/Theme-Data%20Collection%20%26%20Coverage-purple)
