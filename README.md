@@ -11,7 +11,7 @@
 ![Template](https://img.shields.io/badge/Includes-Checklists%20%2B%20Report%20Card-green)
 
 </div>
- 
+  
 Most “trends” don’t come from user behavior.
 
 They come from **measurement changing quietly**.
